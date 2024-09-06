@@ -1,0 +1,106 @@
+2024-07-10T14:23:48.448095 - 192.168.247.30 accessed /
+2024-07-10T14:23:49.057201 - 192.168.247.30 accessed /favicon.ico
+2024-07-10T14:23:49.057652 - 192.168.247.30 accessed /favicon.ico
+2024-07-10T14:23:52.164320 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:23:58.817049 - 192.168.247.30 accessed /decoy/decoy.pdf
+2024-07-10T14:26:33.031420 - 192.168.247.30 accessed /CHAPTER%201-3%20U20CYS1081.docx
+2024-07-10T14:26:38.563879 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:27:05.983454 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:27:33.429309 - 192.168.247.30 accessed /decoy/decoy.html
+2024-07-10T14:28:32.199608 - 192.168.247.30 accessed /decoy.sh
+2024-07-10T14:28:37.602163 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:40:37.402490 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:42:36.229082 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:43:37.498672 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:53:39.651259 - 192.168.247.30 accessed /decoy/
+2024-07-10T14:59:06.399559 - 127.0.0.1 accessed /
+2024-07-10T14:59:07.325564 - 127.0.0.1 accessed /favicon.ico
+2024-07-10T14:59:07.326178 - 127.0.0.1 accessed /favicon.ico
+2024-07-10T15:00:03.445974 - 127.0.0.1 accessed /
+2024-07-10T15:06:21.119807 - 127.0.0.1 accessed /
+2024-07-10T15:06:21.826053 - 127.0.0.1 accessed /favicon.ico
+2024-07-10T15:06:21.827625 - 127.0.0.1 accessed /favicon.ico
+2024-07-10T15:06:58.234343 - 127.0.0.1 accessed /
+2024-07-10T15:07:12.315083 - 127.0.0.1 accessed /decoy/
+2024-07-10T15:07:17.267756 - 127.0.0.1 accessed /CHAPTER%201-3%20U20CYS1081.docx
+2024-07-10T15:07:21.834028 - 127.0.0.1 accessed /CHAPTER%201-3%20U20CYS1081.docx
+2024-07-10T15:30:38.608822 - 127.0.0.1 accessed /
+2024-07-10T15:30:39.531161 - 127.0.0.1 accessed /favicon.ico
+2024-07-10T15:30:39.531639 - 127.0.0.1 accessed /favicon.ico
+2024-07-10T15:30:44.548476 - 127.0.0.1 accessed /evillnk/
+2024-07-10T15:30:47.312425 - 127.0.0.1 accessed /evillnk/img/
+2024-07-10T15:30:50.402254 - 127.0.0.1 accessed /evillnk/img/doc.ico
+2024-07-10T15:31:05.747290 - 127.0.0.1 accessed /http.server
+2024-07-10T15:32:15.456547 - 127.0.0.1 accessed /http.server
+2024-07-10T15:32:16.654969 - 127.0.0.1 accessed /http.server
+2024-07-10T15:32:17.969448 - 127.0.0.1 accessed /CHAPTER%201-3%20U20CYS1081.docx
+2024-07-10T15:32:17.974221 - 127.0.0.1 accessed /decoy/
+2024-07-10T15:32:40.770666 - 127.0.0.1 accessed /decoy/decoy.pdf
+2024-07-10T15:32:48.718199 - 127.0.0.1 accessed /decoy/decoy.pdf
+2024-08-24T11:04:39.937858 - 127.0.0.1 accessed /
+2024-08-24T11:04:40.844525 - 127.0.0.1 accessed /favicon.ico
+2024-08-24T11:04:40.844914 - 127.0.0.1 accessed /favicon.ico
+2024-08-24T11:06:00.874567 - 192.168.181.162 accessed /
+2024-08-24T11:06:01.898231 - 192.168.181.162 accessed /favicon.ico
+2024-08-24T11:06:01.898472 - 192.168.181.162 accessed /favicon.ico
+2024-08-24T11:06:09.685526 - 192.168.181.162 accessed /decoy/
+2024-08-24T11:06:13.981849 - 192.168.181.162 accessed /decoy/decoy.pdf
+2024-08-24T11:07:47.754769 - 192.168.181.162 accessed /
+2024-08-24T11:08:35.536680 - 192.168.181.162 accessed /http.server
+2024-08-24T11:10:02.133794 - 192.168.181.162 accessed /http.server
+2024-08-24T11:13:41.384888 - 192.168.181.162 accessed /email_sender.py
+2024-08-24T11:13:45.985394 - 192.168.181.162 accessed /CHAPTER%201-3%20U20CYS1081.docx
+2024-08-24T11:14:11.874113 - 192.168.181.162 accessed /decoy/
+2024-08-24T11:14:11.875898 - 192.168.181.162 accessed /decoy/
+2024-08-24T11:15:13.232972 - 192.168.181.162 accessed /decoy/decoy.html
+2024-08-24T11:15:19.785368 - 192.168.181.162 accessed /decoy/decoy.pdf
+2024-08-24T11:35:43.427620 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da accessed /decoy/decoy.pdf
+2024-08-24T11:38:44.002253 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da accessed /
+2024-08-24T11:38:44.423647 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da accessed /favicon.ico
+2024-08-24T11:38:44.427248 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da accessed /favicon.ico
+2024-08-24T11:38:49.255505 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da accessed /decoy/
+2024-08-24T11:38:53.144440 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da accessed /decoy/decoy.pdf
+2024-08-24T11:57:02.182208 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /decoy/
+2024-08-24T11:57:04.758247 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-24T11:57:04.762215 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-24T11:57:09.670657 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /decoy/decoy.pdf
+2024-08-24T11:59:46.672709
+        - IP: 192.168.181.162 
+        - MAC: ca:3f:4f:ef:fb:da 
+        - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+        Accessed /decoy/decoy.pdf
+2024-08-24T12:28:46.540756 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /decoy/
+2024-08-24T12:28:48.003159 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-24T12:28:48.006201 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-24T12:28:50.250213 - IP: 192.168.181.162 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /decoy/decoy.pdf
+2024-08-30T12:26:00.573028 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /
+2024-08-30T12:26:00.945630 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-30T12:26:00.948803 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-30T12:26:10.381823 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/
+2024-08-30T12:26:18.468660 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/
+2024-08-30T12:26:29.528884 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/Reports/
+2024-08-30T12:26:38.437605 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/Reports/financial_analysis_2024.xlsx
+2024-08-30T12:34:12.268974 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/
+2024-08-30T12:34:13.395910 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/
+2024-08-30T12:34:14.318628 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /
+2024-08-30T12:34:18.582556 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /
+2024-08-30T12:35:36.443618 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /
+2024-08-30T12:35:36.497576 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /
+2024-08-30T12:35:37.597985 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /favicon.ico
+2024-08-30T12:35:37.607397 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /favicon.ico
+2024-08-30T12:35:46.095342 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /filesystem/
+2024-08-30T12:36:24.276517 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /filesystem/Finance/
+2024-08-30T12:36:36.484861 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /filesystem/Finance/Invoices/
+2024-08-31T09:22:45.618472 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /filesystem/Finance/Invoices/
+2024-08-31T09:22:49.194179 - IP: 127.0.0.1 - MAC: Unknown MAC - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 accessed /filesystem/Finance/Invoices/invoice_Q3_2024.pdf
+2024-08-31T09:25:25.340845 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /
+2024-08-31T09:25:26.154357 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-31T09:25:26.158209 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-31T09:25:29.802841 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/
+2024-08-31T09:25:34.747294 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Operations/
+2024-08-31T09:25:51.540403 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/
+2024-08-31T09:25:53.588954 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/Invoices/
+2024-08-31T09:25:55.023776 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/Invoices/invoice_Q3_2024.pdf
+2024-08-31T11:56:27.690127 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-31T11:56:27.694918 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /favicon.ico
+2024-08-31T11:56:31.436589 - IP: 192.168.3.173 - MAC: ca:3f:4f:ef:fb:da - User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 accessed /filesystem/Finance/Invoices/invoice_Q3_2024.pdf
